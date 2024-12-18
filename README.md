@@ -31,9 +31,108 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+```
+<!DOCTYPE html>
 
+<html>
+
+<head>
+
+  <title>FWAD</title>
+
+<style>
+
+  .bookpage{
+
+    width: 400px;
+
+    height: 600px;
+
+    color:black;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+    padding: 20px;
+font-family: ' Arial, sans-serif';
+background-image: url("by Francois Mercer.png");
+background-size: cover;
+}
+.author{
+display: inline;
+position: relative;
+color:rgb(255, 255, 255);
+top:190px;
+font-family:Georgia;
+font-size: medium;
+}
+.booktitle{
+color:turquoise;
+font-family: Roquen;
+font-size: larger;
+text-align: center;
+position: relative;
+top: 30px;
+}
+.id {
+width:400px;
+position: relative;
+top:180px;
+}
+.ed{
+color:turquoise;
+font-size: medium;
+font-family: Verdana;
+position:relative;
+top:85px;
+}
+.mypic{
+position: relative;
+top: 135px;
+left: 260px;
+width: 90px;
+height: 80px;
+background-size:contain;
+}
+</style>
+<title>Book Cover Page</title>
+</head>
+<body>
+<div class="bookpage">
+<div class="booktitle">
+<h1> <FONT color="teal">FAIRY WINGS</h1></div></FONT>
+<br>
+<div class="subtitle">
+<center><font color="turquoise">A Freedom of one's Life</center></font>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div class="mypic">
+<img src="Swetha.JPG" width="120" height="100" >
+</div>
+<div class="id">
+<hr style="color:teal">
+</div>
+<div class="author">
+<p><b>SWETHA S V</b></p>
+</div>
+<div class="ed">
+<b>AUTHOR</b>
+</div>
+</div>
+</body>
+</html>
+```
 
 ## OUTPUT:
+![Screenshot (29)](https://github.com/user-attachments/assets/b7fbff79-2f99-429e-8793-e2667fb11320)
 
 
 ## RESULT:
